@@ -30,3 +30,4 @@ For the analyzed collective (CHAVANTES, MANDURI, BERNARDINO DE CAMPOS, IPAUSSU, 
 ## Usage
 
 Each Python file can be run independently to perform different types of analyses.
+# AaronWenkThesis
