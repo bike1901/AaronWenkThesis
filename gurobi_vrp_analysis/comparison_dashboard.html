@@ -1,0 +1,115 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Coffee Collective VRP Analysis - Map Comparison</title>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    margin: 0;
+                    padding: 20px;
+                    background-color: #f7f7f7;
+                }
+                h1, h2 {
+                    color: #333;
+                    text-align: center;
+                }
+                .container {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 20px;
+                    max-width: 1200px;
+                    margin: 0 auto;
+                }
+                .dashboard {
+                    background-color: white;
+                    border-radius: 10px;
+                    padding: 20px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                }
+                .stats-container {
+                    display: flex;
+                    justify-content: space-around;
+                    margin-bottom: 20px;
+                }
+                .stat-card {
+                    text-align: center;
+                    padding: 15px;
+                    border-radius: 8px;
+                    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+                    flex: 1;
+                    margin: 0 10px;
+                }
+                .maps-container {
+                    display: grid;
+                    grid-template-columns: 1fr;
+                    gap: 20px;
+                }
+                .map-card {
+                    display: flex;
+                    flex-direction: column;
+                    background-color: white;
+                    border-radius: 8px;
+                    overflow: hidden;
+                    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+                }
+                .map-card h3 {
+                    margin: 0;
+                    padding: 15px;
+                    background-color: #4285f4;
+                    color: white;
+                }
+                iframe {
+                    border: none;
+                    width: 100%;
+                    height: 500px;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="dashboard">
+                    <h1>Coffee Collective VRP Analysis</h1>
+                    <h2>Logistics Scenario Comparison</h2>
+                    
+                    <div class="stats-container">
+                        <div class="stat-card" style="background-color: #ffcccc;">
+                            <h3>Scenario 1</h3>
+                            <p>Individual Pickups</p>
+                            <h2>4831.51 km</h2>
+                        </div>
+                        <div class="stat-card" style="background-color: #ccffcc;">
+                            <h3>Scenario 2</h3>
+                            <p>Hub-based Collection</p>
+                            <h2>832.25 km</h2>
+                            <p>Savings: 3999.26 km (82.77%)</p>
+                        </div>
+                        <div class="stat-card" style="background-color: #ccccff;">
+                            <h3>Optimal VRP</h3>
+                            <p>Gurobi Solution</p>
+                            <h2>756.42 km</h2>
+                            <p>Savings: 4075.09 km (84.34%)</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="maps-container">
+                    <div class="map-card">
+                        <h3>Scenario 1: Individual Pickups</h3>
+                        <iframe src="scenario1_map.html"></iframe>
+                    </div>
+                    
+                    <div class="map-card">
+                        <h3>Scenario 2: Hub-based Collection</h3>
+                        <iframe src="scenario2_map.html"></iframe>
+                    </div>
+                    
+                    <div class="map-card">
+                        <h3>Optimal VRP Solution</h3>
+                        <iframe src="optimal_vrp_map.html"></iframe>
+                    </div>
+                </div>
+            </div>
+        </body>
+        </html>
+        

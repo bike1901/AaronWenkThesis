@@ -1,0 +1,7 @@
+pandas==2.0.0
+numpy==1.24.3
+gurobipy==10.0.1
+matplotlib==3.7.1
+seaborn==0.12.2
+networkx==3.1 
+python-louvain==0.16 

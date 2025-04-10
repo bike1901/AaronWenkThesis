@@ -1,0 +1,301 @@
+=== COFFEE FARMING COLLECTIVE RECOMMENDATIONS ===
+
+Analysis based on brazil-coffee-v2.5.1-2024-04-26.csv
+Date: 2025-04-08
+
+PARAMETERS:
+- Maximum distance between municipalities: 50 km
+- Minimum shared exporters: 1
+
+1. TOP MUNICIPALITY PAIR RECOMMENDATIONS
+======================================
+
+Recommendation #1: TRES PONTAS + CARMO DA CACHOEIRA
+  Distance: 31.9 km
+  Shared Exporters: 7 of 15 total
+  Shared Exporter List: SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., MENEGUELI & GARCIA COMERCIO E EXPORTACAO DE CAFE LTDA, EISA - EMPRESA INTERAGRICOLA, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, LOUIS DREYFUS COMPANY BRASIL S.A. and 2 more
+  Combined Volume: 101658.01
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #2: TRES PONTAS + BOA ESPERANCA
+  Distance: 40.4 km
+  Shared Exporters: 7 of 19 total
+  Shared Exporter List: SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., UNICAFE COMPANHIA DE COMERCIO EXTERIOR, EISA - EMPRESA INTERAGRICOLA, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, LOUIS DREYFUS COMPANY BRASIL S.A. and 2 more
+  Combined Volume: 125622.00
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #3: SAO GONCALO DO SAPUCAI + MACHADO
+  Distance: 43.3 km
+  Shared Exporters: 7 of 20 total
+  Shared Exporter List: SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., EISA - EMPRESA INTERAGRICOLA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, MERCON BRASIL COMERCIO DE CAFE LTDA. and 2 more
+  Combined Volume: 70160.98
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #4: MACHADO + POCO FUNDO
+  Distance: 17.3 km
+  Shared Exporters: 6 of 20 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., ENGELHART, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, STOCKLER COMERCIAL E EXPORTADORA LTDA and 1 more
+  Combined Volume: 68841.98
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #5: BOA ESPERANCA + ILICINEA
+  Distance: 22.8 km
+  Shared Exporters: 6 of 16 total
+  Shared Exporter List: SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., ENGELHART, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, EISA - EMPRESA INTERAGRICOLA, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA and 1 more
+  Combined Volume: 78715.99
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #6: BOA ESPERANCA + SANTANA DA VARGEM
+  Distance: 27.5 km
+  Shared Exporters: 6 of 15 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, ENGELHART, EISA - EMPRESA INTERAGRICOLA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA and 1 more
+  Combined Volume: 77306.99
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #7: TRES PONTAS + NEPOMUCENO
+  Distance: 30.7 km
+  Shared Exporters: 6 of 17 total
+  Shared Exporter List: MENEGUELI & GARCIA COMERCIO E EXPORTACAO DE CAFE LTDA, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, NUTRADE COMERCIAL EXPORTADORA LTDA, COMERCIAL INDUSTRIAL BRANCO PERES DE CAFE LTDA, MONTESA COMERCIO, EXPORTACAO E IMPORTACAO DE CAFE LTDA and 1 more
+  Combined Volume: 104110.01
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #8: MACHADO + MONSENHOR PAULO
+  Distance: 45.9 km
+  Shared Exporters: 6 of 21 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, EISA - EMPRESA INTERAGRICOLA, LOUIS DREYFUS COMPANY BRASIL S.A., COMERCIAL INDUSTRIAL BRANCO PERES DE CAFE LTDA and 1 more
+  Combined Volume: 60286.98
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #9: MACHADO + CARVALHOPOLIS
+  Distance: 15.1 km
+  Shared Exporters: 5 of 21 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, ENGELHART, EISA - EMPRESA INTERAGRICOLA, COMERCIAL INDUSTRIAL BRANCO PERES DE CAFE LTDA, MC COFFEE DO BRASIL LTDA
+  Combined Volume: 57070.98
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #10: CAMBUQUIRA + LAMBARI
+  Distance: 19.8 km
+  Shared Exporters: 5 of 12 total
+  Shared Exporter List: SAGRADOS CORACOES INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, EISA - EMPRESA INTERAGRICOLA, LOUIS DREYFUS COMPANY BRASIL S.A., STOCKLER COMERCIAL E EXPORTADORA LTDA
+  Combined Volume: 31339.00
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #11: MACHADO + PARAGUACU
+  Distance: 20.8 km
+  Shared Exporters: 5 of 24 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, ENGELHART, EISA - EMPRESA INTERAGRICOLA, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, MERCON BRASIL COMERCIO DE CAFE LTDA.
+  Combined Volume: 75920.98
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #12: IRUPI + MARTINS SOARES
+  Distance: 22.9 km
+  Shared Exporters: 5 of 7 total
+  Shared Exporter List: NICCHIO SOBRINHO CAFE S/A, CAFE TRES CORACOES S.A, MARCA CAFE COMERCIO EXPORTACAO, AROMA COFFEE COM. IMP. E EXP. DE CAFE EIRELI, ATLANTICA EXPORTACAO E IMPORTACAO
+  Combined Volume: 32039.12
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #13: SAO GONCALO DO SAPUCAI + LAMBARI
+  Distance: 24.5 km
+  Shared Exporters: 5 of 11 total
+  Shared Exporter List: SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., EISA - EMPRESA INTERAGRICOLA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, LOUIS DREYFUS COMPANY BRASIL S.A., STOCKLER COMERCIAL E EXPORTADORA LTDA
+  Combined Volume: 34585.01
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #14: CRISTAIS + BOA ESPERANCA
+  Distance: 27.2 km
+  Shared Exporters: 5 of 16 total
+  Shared Exporter List: EISA - EMPRESA INTERAGRICOLA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, COMERCIAL INDUSTRIAL BRANCO PERES DE CAFE LTDA, STOCKLER COMERCIAL E EXPORTADORA LTDA, MC COFFEE DO BRASIL LTDA
+  Combined Volume: 78980.99
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #15: ELOI MENDES + MACHADO
+  Distance: 33.9 km
+  Shared Exporters: 5 of 23 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, SENDAS COMERCIO EXTERIOR E ARMAZENS GERAIS S.A., UNICAFE COMPANHIA DE COMERCIO EXTERIOR, LOUIS DREYFUS COMPANY BRASIL S.A., STOCKLER COMERCIAL E EXPORTADORA LTDA
+  Combined Volume: 79532.98
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #16: SAO GONCALO DO SAPUCAI + CAMBUQUIRA
+  Distance: 34.8 km
+  Shared Exporters: 5 of 12 total
+  Shared Exporter List: MENEGUELI & GARCIA COMERCIO E EXPORTACAO DE CAFE LTDA, EISA - EMPRESA INTERAGRICOLA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, LOUIS DREYFUS COMPANY BRASIL S.A., STOCKLER COMERCIAL E EXPORTADORA LTDA
+  Combined Volume: 34074.00
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #17: CARVALHOPOLIS + MONSENHOR PAULO
+  Distance: 36.3 km
+  Shared Exporters: 5 of 10 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, EISA - EMPRESA INTERAGRICOLA, COMERCIAL INDUSTRIAL BRANCO PERES DE CAFE LTDA, SURITA INDUSTRIA E COMERCIO DE CAFE LTDA, MC COFFEE DO BRASIL LTDA
+  Combined Volume: 14356.00
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #18: TRES PONTAS + MONSENHOR PAULO
+  Distance: 37.8 km
+  Shared Exporters: 5 of 15 total
+  Shared Exporter List: UNICAFE COMPANHIA DE COMERCIO EXTERIOR, EISA - EMPRESA INTERAGRICOLA, LOUIS DREYFUS COMPANY BRASIL S.A., COMERCIAL INDUSTRIAL BRANCO PERES DE CAFE LTDA, MC COFFEE DO BRASIL LTDA
+  Combined Volume: 74238.01
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #19: BOA ESPERANCA + CAMPO BELO
+  Distance: 40.5 km
+  Shared Exporters: 5 of 14 total
+  Shared Exporter List: SUCAFINA BRASIL INDUSTRIA, COMERCIO E EXPORTACAO LTDA., EISA - EMPRESA INTERAGRICOLA, UNICAFE COMPANHIA DE COMERCIO EXTERIOR, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, MC COFFEE DO BRASIL LTDA
+  Combined Volume: 71270.00
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+Recommendation #20: SANTANA DA VARGEM + PARAGUACU
+  Distance: 41.5 km
+  Shared Exporters: 5 of 12 total
+  Shared Exporter List: TRISTAO COMERCIO EXTERIOR LTDA, UNION TRADING COMERCIO, IMPORTACAO E EXPORTACAO LTDA, ENGELHART, PRATAPEREIRA COMERCIO IMPORTACAO E EXPORTACAO DE CAFE LTDA, EISA - EMPRESA INTERAGRICOLA
+  Combined Volume: 41557.00
+  Potential Benefits:
+    - Shared transportation to the same exporters
+    - Combined volume for better negotiating power
+    - Knowledge sharing between nearby communities
+
+
+2. EXPANDED COLLECTIVE RECOMMENDATIONS
+======================================
+
+Expanded Collective #1
+  Size: 12 municipalities
+  Municipalities: PIRANGUCU, PEDRALVA, ITAJUBA, SANTA RITA DO SAPUCAI, PIRANGUINHO, CONCEICAO DAS PEDRAS, BRASOPOLIS, SAO JOSE DO ALEGRE, NATERCIA, CONCEICAO DOS OUROS, MARIA DA FE, CACHOEIRA DE MINAS
+  Maximum Distance: 49.5 km
+  Total Volume: 44358.01
+  Suggested Central Hub: SAO JOSE DO ALEGRE
+
+Expanded Collective #2
+  Size: 11 municipalities
+  Municipalities: LINDOIA, PEDREIRA, AMPARO, AGUAS DE LINDOIA, TUIUTI, SANTO ANTONIO DE POSSE, MONTE ALEGRE DO SUL, PINHALZINHO, ITAPIRA, SERRA NEGRA, SOCORRO
+  Maximum Distance: 45.1 km
+  Total Volume: 30183.00
+  Suggested Central Hub: SERRA NEGRA
+
+Expanded Collective #3
+  Size: 11 municipalities
+  Municipalities: REDUTO, SAO JOSE DO MANTIMENTO, IUNA, DURANDE, LAJINHA, ALTO JEQUITIBA, MANHUMIRIM, MARTINS SOARES, SANTANA DO MANHUACU, ALTO CAPARAO, IRUPI
+  Maximum Distance: 50.0 km
+  Total Volume: 140080.12
+  Suggested Central Hub: MARTINS SOARES
+
+Expanded Collective #4
+  Size: 9 municipalities
+  Municipalities: BOM REPOUSO, CONSOLACAO, TOCOS DO MOJI, BORDA DA MATA, ESTIVA, MUNHOZ, INCONFIDENTES, CAMBUI, BUENO BRANDAO
+  Maximum Distance: 45.5 km
+  Total Volume: 16101.00
+  Suggested Central Hub: BOM REPOUSO
+
+Expanded Collective #5
+  Size: 9 municipalities
+  Municipalities: APUCARANA, NOVO ITACOLOMI, CALIFORNIA, SABAUDIA, JANDAIA DO SUL, MARUMBI, MANDAGUARI, ARAPONGAS, CAMBIRA
+  Maximum Distance: 48.3 km
+  Total Volume: 12754.00
+  Suggested Central Hub: CAMBIRA
+
+Expanded Collective #6
+  Size: 9 municipalities
+  Municipalities: CARLOPOLIS, CORONEL MACEDO, BARAO DE ANTONINA, PIRAJU, TAGUAI, FARTURA, TEJUPA, SARUTAIA, TAQUARITUBA
+  Maximum Distance: 49.7 km
+  Total Volume: 59050.00
+  Suggested Central Hub: TAGUAI
+
+Expanded Collective #7
+  Size: 9 municipalities
+  Municipalities: POCO FUNDO, ELOI MENDES, CORDISLANDIA, CARVALHOPOLIS, PARAGUACU, SAO JOAO DA MATA, TURVOLANDIA, SAO GONCALO DO SAPUCAI, MACHADO
+  Maximum Distance: 49.8 km
+  Total Volume: 162034.97
+  Suggested Central Hub: CARVALHOPOLIS
+
+Expanded Collective #8
+  Size: 9 municipalities
+  Municipalities: AVAI, BAURU, PIRATININGA, LUCIANOPOLIS, GALIA, PRESIDENTE ALVES, CABRALIA PAULISTA, FERNAO, DUARTINA
+  Maximum Distance: 50.0 km
+  Total Volume: 13213.00
+  Suggested Central Hub: DUARTINA
+
+Expanded Collective #9
+  Size: 8 municipalities
+  Municipalities: FLORESTOPOLIS, GUARACI, BELA VISTA DO PARAISO, MIRASELVA, JAGUAPITA, PRADO FERREIRA, CAMBE, ROLANDIA
+  Maximum Distance: 47.4 km
+  Total Volume: 2877.00
+  Suggested Central Hub: PRADO FERREIRA
+
+Expanded Collective #10
+  Size: 8 municipalities
+  Municipalities: ATALAIA, MARIALVA, IGUARACU, MUNHOZ DE MELO, MARINGA, ANGULO, ASTORGA, SARANDI
+  Maximum Distance: 49.0 km
+  Total Volume: 1100.00
+  Suggested Central Hub: IGUARACU
+
+
+3. SUMMARY STATISTICS
+====================
+
+Total Municipalities Analyzed: 721
+Potential Pair Collectives Identified: 3176
+Expanded Collectives Identified: 146
+
+The recommended collectives are visualized in the following files:
+- municipality_collectives_map.html: Interactive map of suggested municipality pairs
+- expanded_collectives_map.html: Interactive map of expanded collectives
+- municipality_network.png: Network visualization of municipality connections
+
+These recommendations are based on geographic proximity and shared exporter relationships.
+Forming these collectives could lead to economies of scale, improved logistics, and better negotiating power.
