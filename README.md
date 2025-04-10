@@ -29,5 +29,9 @@ For the analyzed collective (CHAVANTES, MANDURI, BERNARDINO DE CAMPOS, IPAUSSU, 
 
 ## Usage
 
+Datasets can be found here:
+https://trase.earth/open-data/datasets/supply-chains-brazil-coffee
+https://www.ibge.gov.br/en/geosciences/territorial-organization/territorial-meshes/18890-municipal-mesh.html?edicao=30154&t=downloads
+
 Each Python file can be run independently to perform different types of analyses.
 # AaronWenkThesis

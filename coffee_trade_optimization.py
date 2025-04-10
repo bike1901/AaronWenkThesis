@@ -238,7 +238,7 @@ for exporter, importer in allowed_pairs:
         # Get the original FOB per unit
         original_fob_per_volume = fob_values.get((exporter, importer), 0) / volumes.get((exporter, importer), 1)
         
-        # Allow FOB per unit volume to vary within ±25% of the original value
+        # Allow FOB per unit volume to vary within ±10% of the original value
         min_fob_per_volume = 0.90 * original_fob_per_volume
         max_fob_per_volume = 1.10 * original_fob_per_volume
     else:
@@ -258,8 +258,8 @@ for exporter, importer in allowed_pairs:
             avg_fob_per_volume = all_trades_avg
         
         # Tighten FOB per unit constraints to be more realistic
-        min_fob_per_volume = 0.90 * avg_fob_per_volume  # Tightened from 0.75 to 0.85
-        max_fob_per_volume = 1.10 * avg_fob_per_volume  # Tightened from 1.25 to 1.15
+        min_fob_per_volume = 0.90 * avg_fob_per_volume  
+        max_fob_per_volume = 1.10 * avg_fob_per_volume  
     
     # If the pair is inactive (x=0), then both fob and volume must be 0
     model.addConstr(fob_vars[exporter, importer] <= BIG_M * x[exporter, importer], 
